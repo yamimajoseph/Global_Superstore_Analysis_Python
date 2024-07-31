@@ -1,10 +1,10 @@
 # Global_Superstore_Analysis_Python
 
-Analyzes global superstore data to understand customer behavior, sales patterns, and shipping impacts. Provides insights for optimizing business operations.
+Analyzed global superstore data to understand customer behavior, sales patterns, and shipping impacts. Provides insights for optimizing business operations.
 
 ## Data Used
 
-Dataset - The 'Global Superstore Sales' dataset from Kaggle, comprising over 50,000 store records from 2011 to 2014, served as the foundation for this analysis.
+Dataset - The 'Global Superstore Sales' dataset from Kaggle, comprising over 50,000 store records from 2011 to 2014.
 Methodology - Exploratory data analysis (EDA) was performed using Python libraries such as Pandas, Matplotlib, and Seaborn within a Jupyter Notebook environment.
 
 ## Questions
